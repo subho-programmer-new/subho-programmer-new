@@ -1,5 +1,147 @@
-# 💫 About Me:
-# Hi 👋, I'm Subho<br><br>🎓 B.Tech CSE Student<br>🌱 Currently Learning HTML, CSS, JavaScript, Node.js & Express.js<br>💻 Interested in Full Stack Web Development<br>🎯 Goal: Become a Software Engineer<br><br>## 🛠️ Tech Stack<br>- HTML<br>- CSS<br>- JavaScript<br>- Git & GitHub<br>- Node.js (Learning)<br>- Express.js (Learning)<br><br>## 📚 Currently Working On<br>- Web Development<br>- JavaScript<br>- Backend Development<br>- DSA (C++)<br>- Java <br>- Python<br><br>## 📫 Connect With Me<br>GitHub: https://github.com/subho-programmer-new
+# 👋 Hi, I'm Subho
+
+🎓 **B.Tech CSE Student** | 💻 **Aspiring Software Engineer**
+🌱 **Full-Stack Web Developer in Progress** | 🚀 **Building & Learning Every Day**
+
+I'm a Computer Science student passionate about **Web Development, Backend Development, Software Engineering, and Problem Solving**.
+
+I love learning by building real-world projects, experimenting with new technologies, solving bugs, and improving my coding skills every day.
+
+---
+
+## 💫 About Me
+
+* 🎓 B.Tech CSE Student
+* 🌐 Currently learning **Full-Stack Web Development**
+* ⚡ Exploring **JavaScript & React**
+* 🟢 Learning **Node.js, Express.js & MongoDB**
+* ☕ Practicing **Java & Data Structures & Algorithms**
+* 🐍 Learning **Python**
+* 🎨 Exploring **GSAP & modern web animations**
+* 🧠 Interested in **Software Engineering & scalable applications**
+* 🚀 Building projects to turn knowledge into practical skills
+* 🎯 Goal: Become a **strong Software Engineer**
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" />
+</p>
+
+### 🌐 Web Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,gsap" />
+</p>
+
+### 🗄️ Database & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Currently Working On
+
+* 🌐 Full-Stack Web Development
+* ⚡ JavaScript & React
+* 🟢 Node.js & Express.js
+* 🗄️ MongoDB & Mongoose
+* ☕ Java + DSA
+* 🐍 Python
+* 🎨 GSAP & Web Animations
+* 🚀 Real-world projects
+
+---
+
+## 📚 My Learning Journey
+
+```text
+HTML → CSS → JavaScript → React
+                         ↓
+                  Node.js → Express.js
+                         ↓
+                 MongoDB → Mongoose
+                         ↓
+                  Full-Stack Projects
+                         ↓
+                      Java + DSA
+                         ↓
+                Software Engineering 🚀
+```
+
+---
+
+## 🧠 My Learning Philosophy
+
+> **Learn → Build → Break → Fix → Repeat.**
+
+I believe programming isn't about memorizing everything.
+
+It's about **understanding concepts, writing code, making mistakes, debugging, and building again.**
+
+---
+
+## 🎯 Goals
+
+* 💻 Become a strong **Full-Stack Developer**
+* 🧠 Master **DSA & Problem Solving**
+* 🚀 Build production-ready applications
+* 🏗️ Work on real-world software projects
+* 🌍 Contribute to **Open Source**
+* 📈 Improve **1% every day**
+* 🔥 Become a professional **Software Engineer**
+
+---
+
+## ⚡ Flex Your GitHub
+
+```text
+💻 Code.
+🚀 Build.
+🐛 Break.
+🔧 Fix.
+📈 Improve.
+🔥 Repeat.
+
+Not just writing code —
+building my future, one commit at a time.
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subho-programmer-new&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subho-programmer-new&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/subho-programmer-new">
+    <img src="https://skillicons.dev/icons?i=github" width="45"/>
+  </a>
+</p>
+
+🐙 **GitHub:** [@subho-programmer-new](https://github.com/subho-programmer-new)
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile!</h3>
+
+<p align="center">
+  <b>Keep Learning • Keep Building • Keep Growing 🚀</b>
+</p>
+
 
 
 # 💻 Tech Stack:
