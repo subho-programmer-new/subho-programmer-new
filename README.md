@@ -1,132 +1,167 @@
-<p align="center">
-  <img src="./assets/profile-avatar.png" width="260" alt="Neon cyberpunk programmer avatar">
-</p>
-
-<h1 align="center">Hey, I'm Subho 👋</h1>
+# ⚡ SR CODER | SUBHO
 
 <p align="center">
-  <strong>Aspiring Software Engineer · Full-Stack Developer</strong><br>
-  Building · Learning · Shipping 🚀
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:003322,100:00FF99&height=220&section=header&text=SR%20CODER&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=THE%20FUTURE%20IS%20WRITTEN%20IN%20CODE&descAlignY=60&descSize=16" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subho-programmer-new&style=for-the-badge&color=0A101F&label=PROFILE+VIEWS" alt="Profile views">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2000&pause=700&color=00FF99&center=true&vCenter=true&width=700&lines=SYSTEM+INITIALIZED...;WELCOME+TO+MY+DIGITAL+WORLD;FULL+STACK+DEVELOPER+IN+PROGRESS;JAVA+%7C+PYTHON+%7C+JAVASCRIPT;BUILDING+THE+FUTURE+%F0%9F%9A%80;NEVER+STOP+EVOLVING." />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF99?style=for-the-badge&logo=statuspage&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LOCATION-INDIA-FF4545?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=subho-programmer-new&style=for-the-badge&color=00FF99&label=PROFILE+VISITS"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👾 WHO AM I?
 
-- 🎓 B.Tech Computer Science & Engineering student
-- 📍 India
-- 🌱 Learning Data Structures & Algorithms, Java, Python and Full-Stack Development
-- 🧩 Interested in building useful products and solving real-world problems
-- ⚡ Motto: **Build. Learn. Improve. Repeat.**
+```bash
+> Initializing Subho.exe...
+> Loading developer profile...
+> Identity: Subho
+> Role: CSE Student
+> Mission: Software Engineer
+> Status: Always Learning
+> Access: GRANTED ✓
+```
 
-## 🧰 Tech Stack
+Hey! I'm **Subho**, a Computer Science student who loves technology, programming and creating things.
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/C-0A101F?style=for-the-badge&logo=c&logoColor=A78BFA" alt="C">
-  <img src="https://img.shields.io/badge/C%2B%2B-0A101F?style=for-the-badge&logo=cplusplus&logoColor=A78BFA" alt="C++">
-  <img src="https://img.shields.io/badge/Java-0A101F?style=for-the-badge&logo=openjdk&logoColor=22D3EE" alt="Java">
-  <img src="https://img.shields.io/badge/JavaScript-0A101F?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-0A101F?style=for-the-badge&logo=python&logoColor=10B981" alt="Python">
-</p>
+- 🎓 B.Tech Computer Science & Engineering
+- 💻 Full Stack Development
+- ⚡ JavaScript & React
+- ☕ Java & Data Structures
+- 🐍 Python Programming
+- 🗄️ MongoDB & Backend Development
+- 🤖 Exploring Artificial Intelligence
+- 🚀 Building my developer journey.
 
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-0A101F?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-0A101F?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3">
-  <img src="https://img.shields.io/badge/React-0A101F?style=for-the-badge&logo=react&logoColor=22D3EE" alt="React">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0A101F?style=for-the-badge&logo=tailwindcss&logoColor=22D3EE" alt="Tailwind CSS">
-</p>
+**"I don't chase perfection. I chase progress."**
 
-### Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/Node.js-0A101F?style=for-the-badge&logo=nodedotjs&logoColor=10B981" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-0A101F?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express.js">
-  <img src="https://img.shields.io/badge/MongoDB-0A101F?style=for-the-badge&logo=mongodb&logoColor=10B981" alt="MongoDB">
-</p>
+---
 
-### Tools
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-0A101F?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE" alt="VS Code">
-  <img src="https://img.shields.io/badge/Git-0A101F?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
+## ⚔️ TECH ARSENAL
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,react,nodejs,express,mongodb,mysql,git,github,vscode,postman&perline=5" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📡 LIVE DEVELOPER STATUS
 
-<!--
-  SELF-HOST SETUP:
-  Deploy your own fork of anuraghazra/github-readme-stats to Vercel.
-  Replace YOUR-VERCEL-INSTANCE with your Vercel deployment hostname.
-  Do not paste your GitHub token in this README.
--->
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=subho-programmer-new&theme=transparent&background=0A101F&ring=A78BFA&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=A78BFA&dates=9CA3AF&sideNums=FFFFFF&currStreakNum=FFFFFF&border=0A101F"
-    alt="GitHub contribution streak" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=1000&color=FF4545&center=true&vCenter=true&width=600&lines=Compiling+new+ideas...;Debugging+the+impossible...;Learning+new+technologies...;Building+something+awesome..." />
+</p>
+
+| Module | Current Focus |
+|:---|:---|
+| FRONTEND | React & JavaScript |
+| BACKEND | Node.js & Express |
+| DATABASE | MongoDB |
+| PROGRAMMING | Java & Python |
+| DSA | Problem Solving |
+| FUTURE | AI & Machine Learning |
+
+---
+
+## 📊 GITHUB COMMAND CENTER
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=subho-programmer-new&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=FF4545&rank_icon=github"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subho-programmer-new&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF99"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://YOUR-VERCEL-INSTANCE.vercel.app/api?username=subho-programmer-new&show_icons=true&hide_rank=true&include_all_commits=true&bg_color=0A101F&title_color=A78BFA&text_color=CBD5E1&icon_color=22D3EE&border_color=0A101F"
-    alt="GitHub stats" width="49%">
-  <img
-    src="https://YOUR-VERCEL-INSTANCE.vercel.app/api/top-langs/?username=subho-programmer-new&layout=compact&langs_count=8&bg_color=0A101F&title_color=A78BFA&text_color=CBD5E1&border_color=0A101F"
-    alt="Top languages" width="49%">
+  <img width="90%" src="https://streak-stats.demolab.com?user=subho-programmer-new&theme=dark&hide_border=true&background=0D1117&ring=00FF99&fire=FF4545&currStreakLabel=00FF99"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 GITHUB TROPHY ROOM
 
-<!--
-  First configure and run the GitHub Actions workflow from SETUP.md.
-  The output branch is created by the workflow; these images won't load before
-  the first successful run.
--->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subho-programmer-new/subho-programmer-new/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subho-programmer-new/subho-programmer-new/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/subho-programmer-new/subho-programmer-new/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%">
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=subho-programmer-new&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=4"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🐍 CONTRIBUTION SNAKE
 
-<!-- Replace these destination URLs with your real profile URLs and email address. -->
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn">
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram">
-  </a>&nbsp;&nbsp;
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-0A101F?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail">
-  </a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=FFFFFF" alt="Facebook">
-  </a>
+  <img src="https://raw.githubusercontent.com/subho-programmer-new/subho-programmer-new/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
+
+---
+
+## 📈 CONTRIBUTION GRAPH
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subho-programmer-new&bg_color=0D1117&color=00FF99&line=00FF99&point=FF4545&area=true&hide_border=true" width="100%"/>
+</p>
+
+---
+
+## 🎯 MISSION 2026 – 2029
+
+```text
+[■■■■□□□□□□] JavaScript Mastery
+[■■■□□□□□□□] Full Stack Development
+[■■□□□□□□□□] Data Structures & Algorithms
+[■■□□□□□□□□] Java Programming
+[■□□□□□□□□□] AI & Machine Learning
+[□□□□□□□□□□] Open Source Contributions
+```
+
+- [ ] Master JavaScript
+- [ ] Become strong in React
+- [ ] Build real-world full-stack projects
+- [ ] Master Java & DSA
+- [ ] Explore AI & ML
+- [ ] Contribute to Open Source
+- [ ] Become a Software Engineer
+
+---
+
+## 🧠 DEVELOPER MINDSET
+
+```javascript
+while (true) {
+    learn();
+    build();
+    fail();
+    debug();
+    improve();
+    repeat();
+}
+```
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Consistency+%3E+Motivation;Projects+%3E+Excuses;Learning+%3E+Ego;Progress+Never+Stops." />
+</p>
+
+---
+
+## 🌐 CONNECT WITH ME
 
 <p align="center">
   <a href="https://github.com/subho-programmer-new">
-    <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-0A101F?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio coming soon">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF99"/>
+  </a>
+  <a href="https://instagram.com/subhovx">
+    <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=FF4545"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <strong>Thanks for visiting my profile! 💜</strong><br>
-  <sub>Keep coding. Keep growing. Keep creating.</sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=00FF99&center=true&vCenter=true&width=650&lines=THANKS+FOR+VISITING+MY+PROFILE;SEE+YOU+IN+THE+NEXT+COMMIT;CODE.+CREATE.+INNOVATE.+REPEAT."/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,50:003322,100:000000&height=150&section=footer"/>
 </p>
